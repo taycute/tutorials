@@ -2,6 +2,10 @@
 
 [<img src="assets/197-1.png?raw=true">](https://youtu.be/OS8S0FcrgvU)
 
+# About
+
+This repo is the written companion to Anton Putra's DevOps tutorials. The lessons index is in `docs/contents.md`, and each lesson's code examples live in a folder under `lessons/`. Those folders hold the code from the videos, including Terraform, Kubernetes, Docker and more.
+
 # Playlists
 
 👉  [Kubernetes Tutorials](https://www.youtube.com/playlist?list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF)  
